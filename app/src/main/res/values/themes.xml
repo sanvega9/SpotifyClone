@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SpotifyClone" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/spotify_green</item>
+         <item name="colorPrimaryVariant">@color/spotify_gray_light</item>
+         <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+    <style name="Theme.SpotifyClone" parent="Base.Theme.SpotifyClone" />
+</resources>
